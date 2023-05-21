@@ -1,3 +1,7 @@
+![react_front1](https://github.com/sarankumar007/Movie_Frontend_React/assets/93342856/e9e1b9a4-3da6-4be2-b145-0504568cb22f)
+![react_front3](https://github.com/sarankumar007/Movie_Frontend_React/assets/93342856/53d49c81-5bb1-4acb-8601-50465800ff35)
+![react_front2](https://github.com/sarankumar007/Movie_Frontend_React/assets/93342856/dddf3b90-48bf-4cd6-a139-027005392a40)
+
 # Movie Review Frontend
 
 This repository contains the frontend code for a React application that connects to a backend API for retrieving movie details. The backend API is provided by the "MovieApi_Backend_Springboot" repository.
